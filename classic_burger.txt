@@ -1,0 +1,7 @@
+Classic Burger:
+- Beef patty
+- Lettuce
+- Tomato
+- Pickles
+- Cheese
+- Ketchup and mustard
