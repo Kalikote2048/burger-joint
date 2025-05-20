@@ -4,3 +4,4 @@ Spicy Burger:
 - Pepper jack cheese
 - Lettuce
 - Chipotle sauce
+- Spicy level: Medium
