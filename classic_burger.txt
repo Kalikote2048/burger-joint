@@ -5,3 +5,4 @@ Classic Burger:
 - Pickles
 - Cheese
 - Ketchup and mustard
+- On a sesame seed bun
