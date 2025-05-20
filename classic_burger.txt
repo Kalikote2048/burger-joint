@@ -6,3 +6,4 @@ Classic Burger:
 - Cheese
 - Ketchup and mustard
 - On a sesame seed bun
+- Extra bacon
